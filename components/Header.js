@@ -13,7 +13,7 @@ const Logo = () => {
     <div className="py-4 px-2 sm:px-10 bg-slate-300 flex items-center justify-between client">
       <div>
         <Link href="/">
-          <h1 className="text-purple text-blue-700 font-bold text-5xl text-center">
+          <h1 className="text-purple text-blue-700 font-bold text-3xl text-center">
             FoodL❤️ver
           </h1>
         </Link>
